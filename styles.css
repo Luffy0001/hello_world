@@ -1,0 +1,156 @@
+#home1 {
+  background-image: url("../Images/pexals.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#python1 {
+  background-image: url("../Images/dark\ python1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#java1 {
+  background-image: url("../Images/dark\ java1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#js {
+  background-image: url("../Images/HTML\,\ CSS\,\ JS.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.title {
+  color: white;
+  background-color: rgb(43, 21, 43, 0.3);
+  font-size: 40px;
+  width: 1255px;
+  text-align: center;
+  text-decoration: underline;
+  border-style: solid;
+  border-width: 5px;
+  border-color: yellow;
+  border-radius: 40px;
+  margin: 0px;
+}
+
+.title1 {
+  color: white;
+  background-color: rgb(43, 21, 43, 0.3);
+  font-size: 40px;
+  width: 1255px;
+  text-align: center;
+  text-decoration: underline;
+  border-style: solid;
+  border-width: 5px;
+  border-color: yellow;
+  border-radius: 40px;
+  padding-top: 55px;
+  margin: 40px;
+}
+
+/* #link { 
+  text-align: center;
+  font-size: 20px;
+  list-style-type: none;
+  text-decoration: underline;
+  */
+/* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+/* background: black; */
+/* color: white; */
+
+#para {
+  color: white;
+  text-align: center;
+  margin: 0px;
+}
+
+/* ul li a { 
+  margin: -47px;
+  padding: 0px;
+  text-align: center;
+  font-size: 10px;
+  list-style-type: none;
+  text-decoration: underline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: rgb(12, 12, 12, 0.3);
+  color: white;
+  border-style: solid;
+  padding: 0px;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: yellow;
+}
+*/
+
+.top a {
+  font-size: 10px;
+  color: white;
+  background-color: rgb(158, 158, 0.5);
+}
+
+#dots li {
+  list-style-type: none;
+}
+
+#home a {
+  color: white;
+  font-size: 20px;
+  list-style-type: none;
+  text-decoration: underline;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 5px;
+  list-style-type: none;
+}
+#python a {
+  color: white;
+  font-size: 20px;
+  list-style-type: none;
+  text-decoration: underline;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 5px;
+  list-style-type: none;
+}
+
+#java a {
+  color: white;
+  font-size: 20px;
+  list-style-type: none;
+  text-decoration: underline;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 5px;
+  list-style-type: none;
+}
+
+#html a {
+  color: white;
+  font-size: 15px;
+  list-style-type: none;
+  text-decoration: underline;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 5px;
+  list-style-type: none;
+}
+
+ul {
+  text-align: center;
+}
+
+.tutorial li {
+  text-align: left;
+  margin-left: -47px;
+}
+
+#tut li a {
+  color: white;
+  text-align: left;
+  list-style-type: none;
+  border-style: ridge;
+  border-color: red;
+}
